@@ -1,0 +1,7 @@
+org: sunnynpardeshioffice
+app: my-express-app
+component: express
+name: express-starter
+
+inputs:
+  src: ./
